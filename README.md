@@ -53,5 +53,5 @@ BrandSpark AI is a minimal AI-powered tool built using **Google Opal** that tran
 
 ---
 
-## 📁 File Structure
+
 
